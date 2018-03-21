@@ -1,0 +1,25 @@
+{
+  "name": "n8tive",
+  "version": "1.0.0",
+  "description": "Native web component library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsargeant/n8tive.git"
+  },
+  "keywords": [
+    "Web",
+    "components",
+    "native",
+    "web"
+  ],
+  "author": "Nathan Sargeant <nathan.s.sargeant@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nsargeant/n8tive/issues"
+  },
+  "homepage": "https://github.com/nsargeant/n8tive#readme"
+}
